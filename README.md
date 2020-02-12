@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hi!
+
+My name's Edisson and I'm taking the Git and GitHub tutorial! 
